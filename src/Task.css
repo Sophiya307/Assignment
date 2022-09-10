@@ -1,0 +1,54 @@
+.form-control{
+    width: 27rem;
+}
+ h3{
+    text-align:justify;
+ }
+ input{
+    width: 4rem;
+ }
+ button{
+    width: 4rem;
+    color:#002D62;
+
+ }
+ body{
+    /* background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);; */
+    /* background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); */
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+ }
+ /* .App {
+   font-family: sans-serif;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }
+ 
+.search-container {
+   width: 280px;
+   display: flex;
+   flex-direction: column;
+ }
+ 
+ .dropdown {
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   border: 1px solid gray;
+ }
+ 
+ .dropdown:empty {
+   border: none;
+ }
+ 
+ .dropdown-row {
+   cursor: pointer;
+   text-align: start;
+   margin: 2px 0;
+ }
+ 
+.search-inner {
+   display: flex;
+ }
+  */
